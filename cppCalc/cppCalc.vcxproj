@@ -144,6 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="std_lib_facilities.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
